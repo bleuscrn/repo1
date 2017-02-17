@@ -1,14 +1,13 @@
 body{
 	/* background-color: rgb(192,192,192);*/
-	background-image: url(image/fonds_gris.jpg);
-	background-attachment: fixed;
-}
+	background: url(image/identiter.jpg) fixed no-repeat top right, url(image/fonds_gris.jpg);
+	}
 
 
 
 h1{
 	text-align: center;
-
+	
 }
 h1 + p
 {
@@ -17,6 +16,8 @@ h1 + p
 	text-align: center;
 	font-size: 40px;
 	font-family: arial, arial black,
+
+
 
 }
 h2{
