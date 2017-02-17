@@ -1,5 +1,7 @@
 body{
-	background-color: rgb(192,192,192);
+	/* background-color: rgb(192,192,192);*/
+	background-image: url(image/fonds_gris.jpg);
+	background-attachment: fixed;
 }
 
 
@@ -20,6 +22,7 @@ h1 + p
 h2{
 		text-decoration: underline;
 		text-decoration-color: red;
+		color: blue;
 
 }
 .image
